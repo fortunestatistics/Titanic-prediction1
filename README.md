@@ -4,11 +4,17 @@ This project aims to build a machine learning model to predict whether a passeng
 The dataset contains information about the passengers on the Titanic and whether they survived or not. It has the following attributes for each passenger:
 
 . PassengerId: Passenger's ID
+
 . Survived: Survival (0 = No, 1 = Yes)
+
 .  Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+
 . Name: Name
+
 . Sex: Gender
+
 . Age: Age
+
 . SibSp: Number of siblings / spouses aboard
 . Parch: Number of parents / children aboard
 . Ticket: Ticket number
